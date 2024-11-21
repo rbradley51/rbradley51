@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left">Hello World!!</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rbradley51/count.svg?"  />
+</div>
 
 ###
 
@@ -48,9 +50,6 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rbradley51/count.svg?"  />
-</div>
 
 ###
 
