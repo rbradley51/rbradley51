@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/42e1a4db-2c51-4d46-8201-35842b809388"  />
-</div>
-
 ###
 
 <div align="center">
