@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="200" src="![th](https://github.com/user-attachments/assets/280206cd-56c5-4c3d-a109-8f1f7bb59123)"  />
+  <img height="200" src="https://github.com/user-attachments/assets/280206cd-56c5-4c3d-a109-8f1f7bb59123"  />
 
 </div>
 
