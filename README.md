@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/280206cd-56c5-4c3d-a109-8f1f7bb59123"  />
+  <img height="200" src="https://github.com/user-attachments/assets/42e1a4db-2c51-4d46-8201-35842b809388"  />
 </div>
 
 ###
