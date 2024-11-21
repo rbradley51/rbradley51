@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/rbradley51/count.svg?"  />
+  <img height="200" src="https://github.com/user-attachments/assets/280206cd-56c5-4c3d-a109-8f1f7bb59123"  />
 </div>
 
 ###
@@ -50,12 +50,8 @@ Here are some ideas to get you started:
 
 ###
 
-
-###
-
 <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/280206cd-56c5-4c3d-a109-8f1f7bb59123"  />
-
+  <img src="https://profile-counter.glitch.me/rbradley51/count.svg?"  />
 </div>
 
 ###
